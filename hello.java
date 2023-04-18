@@ -1,6 +1,6 @@
 public class hello.java{
 	public Static void main(String[] args){
-		System.out.println("Hello Welcome to SPT Tumkur");
+		System.out.println("Hello Welcome to SPT Tumkur Batwadi");
 	}
 }
 
